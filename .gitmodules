@@ -4,6 +4,3 @@
 [submodule "ves_analysis"]
 	path = ves_analysis
 	url = https://github.com/gnuoyea/hydra_micaela.git
-[submodule "ves_vis"]
-	path = ves_vis
-	url = https://github.com/akgohain/ves_vis
